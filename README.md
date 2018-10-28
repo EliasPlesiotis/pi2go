@@ -1,12 +1,12 @@
 Pi2go
 
 Feel free to play and experiment with the code.
-If any bugs appear please inform me.
+If any undocumented bugs(look at the ABOUT THE CODE section) appear please inform me.
 
 ABOUT THE CODE.
-  BUGS:
+BUGS:
     The mesurments of the ultra sonic sensor are not always reliable.
     
-  WARNING:
+WARNING:
     Due to technical issues I haven't test the steering class.
     So it might need some extra patient in order to make it fully work.
