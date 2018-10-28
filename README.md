@@ -9,4 +9,4 @@ BUGS:
     
 WARNING:
     Due to technical issues I haven't test the steering class.
-    So it might need some extra patient in order to make it fully work.
+    So it might need some extra patient from your side in order to make it fully work.
