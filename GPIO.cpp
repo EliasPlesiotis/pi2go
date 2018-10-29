@@ -2,7 +2,6 @@
 #include <string>
 #include <iostream>
 #include <sstream>
-#include "pch.h"
 #include "GPIO.h"
 
 using namespace std;
